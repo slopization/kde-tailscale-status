@@ -1,0 +1,13 @@
+{
+  "KPackageStructure": "Plasma/Applet",
+  "KPlugin": {
+    "Id": "org.kde.tailscale_status",
+    "Name": "Tailscale Status",
+    "Icon": "network",
+    "Category": "Network",
+    "Description": "Shows connection status of selected Tailscale devices",
+    "Authors": ["minjae"],
+    "Version": "0.1.0"
+  },
+  "X-Plasma-API-Minimum-Version": "6.0"
+}
